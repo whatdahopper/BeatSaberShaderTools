@@ -1,5 +1,8 @@
+> [!WARNING]
+> Currently incompatible with the Beat Saber URP beta (v1.42.100+), I am working on rewriting the CG includes to work with URP, as well as providing new examples. For the time being, there is no fix, sorry! :(
+
 # Beat Saber Shader Tools
-Various tools for helping create shaders that work *properly* inside Beat Saber. If you have any issues, please report them in this repo or DM me on Discord: `irl_bunny`
+Various tools for helping create shaders that work *properly* inside Beat Saber. If you have any issues, please report them in this repo or DM me on Discord: `dr.bnuuy`
 
 ## BloomFog.cginc
 Allows for easily mixing in the BloomFog from Beat Saber with the output of your shader, allowing objects to cleanly fade in without popping in (e.g. custom notes). Properly handles fog attenuation/offset, as well as height fog, works on PC and should work on Quest as well.
