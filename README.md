@@ -1,5 +1,4 @@
-> [!WARNING]
-> Currently incompatible with the Beat Saber URP beta (v1.42.100+), I am working on rewriting the CG includes to work with URP, as well as providing new examples. For the time being, there is no fix, sorry! :(
+### Beat Saber Shader Tools has been discontinued, due to a lack of usage among the community, my dwindling love for the game, and URP breaking everything. Thanks to anyone who supported me while making this!
 
 # Beat Saber Shader Tools
 Various tools for helping create shaders that work *properly* inside Beat Saber. If you have any issues, please report them in this repo or DM me on Discord: `dr.bnuuy`
